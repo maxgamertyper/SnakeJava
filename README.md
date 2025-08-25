@@ -1,2 +1,2 @@
 # SnakeJava
-My first java project, its snake because i don't like front end and I'm not good at it
+My first Java project is Snake because I don't like front-end, I'm not good at it, and I didn't know how it works, but now I kinda do
