@@ -17,9 +17,9 @@ public class Main {
 
         // start window preloading
         Scanner scnr = new Scanner(System.in);
-        System.out.println("Enter Grid Pixel Dimensions, will determine all other sizes (width,height)");
+        System.out.println("Enter Grid Pixel Width then Grid Pixel Height, will determine all other sizes (width,height)");
         int[] GridSizeDimensions = {scnr.nextInt(),scnr.nextInt()};
-        System.out.println("Enter Window Dimensions (width,height)");
+        System.out.println("Enter Window Width then Window Height");
         int[] WindowDimensions = {scnr.nextInt(),scnr.nextInt()};
         System.out.println("Enter FPS");
         int fps = scnr.nextInt();
